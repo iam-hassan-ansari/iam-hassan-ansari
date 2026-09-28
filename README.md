@@ -1,4 +1,4 @@
-# Hassan Ansari
+![Hassan Ansari - Software Developer](github-header.png)
 
 Software Developer working with C#, .NET Core, Python and SQL Server/MySQL, mostly building business software for automotive dealerships. I also take on freelance AI/LLM data evaluation work, and I trained originally as an architect, which still shapes how I approach a problem before writing any code.
 
