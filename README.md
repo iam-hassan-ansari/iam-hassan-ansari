@@ -1,4 +1,5 @@
 ![Hassan Ansari - Software Developer](github-header.png)
+![](divider.png)
 
 Software Developer working with C#, .NET Core, Python and SQL Server/MySQL, mostly building business software for automotive dealerships. I also take on freelance AI/LLM data evaluation work, and I trained originally as an architect, which still shapes how I approach a problem before writing any code.
 
@@ -8,9 +9,17 @@ Software Developer at Emsys Solutions Pvt Ltd (Malegaon), building desktop and w
 
 ## Skills
 
-- Languages: Python, C#, Java, C, C++, JavaScript, SQL, PL/SQL
-- Web and frameworks: .NET / .NET Core, ASP.NET Core, Entity Framework, MVC, HTML, CSS, JavaScript
-- Databases and tools: Oracle (DBA and PL/SQL), MySQL, MariaDB, stored procedures, Git, Docker
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-1F3A5F?style=for-the-badge) ![C#](https://img.shields.io/badge/C%23-1F3A5F?style=for-the-badge) ![Java](https://img.shields.io/badge/Java-1F3A5F?style=for-the-badge) ![C](https://img.shields.io/badge/C-1F3A5F?style=for-the-badge) ![C++](https://img.shields.io/badge/C%2B%2B-1F3A5F?style=for-the-badge) ![JavaScript](https://img.shields.io/badge/JavaScript-1F3A5F?style=for-the-badge) ![SQL](https://img.shields.io/badge/SQL-1F3A5F?style=for-the-badge) ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-1F3A5F?style=for-the-badge)
+
+**Web and frameworks**
+
+![.NET](https://img.shields.io/badge/.NET-1F3A5F?style=for-the-badge) ![.NET Core](https://img.shields.io/badge/.NET_Core-1F3A5F?style=for-the-badge) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-1F3A5F?style=for-the-badge) ![Entity Framework](https://img.shields.io/badge/Entity_Framework-1F3A5F?style=for-the-badge) ![MVC](https://img.shields.io/badge/MVC-1F3A5F?style=for-the-badge) ![HTML5](https://img.shields.io/badge/HTML5-1F3A5F?style=for-the-badge) ![CSS3](https://img.shields.io/badge/CSS3-1F3A5F?style=for-the-badge)
+
+**Databases and tools**
+
+![Oracle](https://img.shields.io/badge/Oracle-1F3A5F?style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-1F3A5F?style=for-the-badge) ![MariaDB](https://img.shields.io/badge/MariaDB-1F3A5F?style=for-the-badge) ![Stored Procedures](https://img.shields.io/badge/Stored_Procedures-1F3A5F?style=for-the-badge) ![Git](https://img.shields.io/badge/Git-1F3A5F?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-1F3A5F?style=for-the-badge)
 
 ## Freelance: AI and data evaluation
 
@@ -33,7 +42,8 @@ Small, self-contained demos built for this portfolio. Each one runs entirely in 
 
 Bachelor of Computer Application (BCA) - KTHM College, Nashik, and a Bachelor of Architecture - IES College of Architecture, Mumbai. I still work part-time as an architect alongside software development.
 
+![](divider.png)
+
 ## Contact
 
-- Email: iamhassanansari@gmail.com
-- LinkedIn: linkedin.com/in/hassan-ansari-417693145
+[![Email](https://img.shields.io/badge/Email-1F3A5F?style=for-the-badge&logo=gmail&logoColor=A8823E)](mailto:iamhassanansari@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-1F3A5F?style=for-the-badge&logo=linkedin&logoColor=A8823E)](https://www.linkedin.com/in/hassan-ansari-417693145)
